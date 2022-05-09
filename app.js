@@ -1,7 +1,7 @@
 const Player = {
-    Name: "chae"
-    Points: 10
-    fat: true
+    Name: "chae",
+    Points: 10,
+    fat: true,
     };
 
     console.log (player)

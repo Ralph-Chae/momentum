@@ -1,1 +1,4 @@
-alert("hi");
+const Player = {
+    Name
+    Points
+    }
